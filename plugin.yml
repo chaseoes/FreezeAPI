@@ -1,0 +1,4 @@
+name: FreezeAPI
+main: me.chaseoes.freezeapi.FreezeAPI
+version: 1.0
+description: An API designed to allow developers and other plugins to freeze players.
